@@ -1,0 +1,8 @@
+#recipes img {
+        max-height: 170px;
+        object-fit: cover;
+}
+#categories img {
+        max-height: 370px;
+        object-fit: cover;
+}
