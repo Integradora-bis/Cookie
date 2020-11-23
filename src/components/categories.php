@@ -2,7 +2,7 @@
  echo'
 
 <div class=container mb-2>
-<br> <h1 id="rn" class="display-3">Welcome to Cookie!</h1>
+<h1 id="rn" class="display-3">Welcome to Cookie!</h1>
 <p>Choose the category that best suits you</p> <br>
 </div>
  
@@ -15,7 +15,7 @@
          <!--Foods-->        
          <div class="col mb-4">
              <div id ="foods">
-                 <a href="https://www.thispersondoesnotexist.com">
+                 <a href="../views/cards.php">
                      <img src="../img/food.jpg" class="card-img-top" alt="Foods" style="width:100% height:auto">              
                          <button type="button" class="btn btn-outline-dark col mb-4">Foods</button>                                 
                  </a>  
@@ -90,7 +90,7 @@
          <!--hard to make-->
          <div class="col mb-4">
              <div id ="hard">
-                 <a href="long.php>
+                 <a href="long.php">
                      <img src="../img/hard.jpg" class="card-img-top" alt="hard" style="width:100% height:auto">
                      <div>
                      <button type="button" class="btn btn-outline-dark col mb-4">Hard to make</button>                 
