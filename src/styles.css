@@ -1,0 +1,47 @@
+footer{
+    text-align: center;
+}
+
+.text-dark{
+    text-align: center;
+}
+
+.body{
+    margin-left:15%;
+    margin-right: 15%;
+}
+
+
+.navbar{
+	background-color: #bd8236;
+}
+
+input{
+    align-self: center;
+}
+
+.chef{
+    width: 10%;
+    height: auto;
+}
+
+/*.cuki{
+  background-color: #f0e0c3;
+} */
+
+
+/*copy paste */
+
+.site-header {
+    background-color: #ac8b67;
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+  }
+  .site-header a {
+    color: #FFF8EE;
+    transition: ease-in-out color .15s;
+  }
+  .site-header a:hover {
+    color: #402E32;
+    text-decoration: none;
+  }
