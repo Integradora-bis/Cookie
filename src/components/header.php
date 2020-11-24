@@ -5,42 +5,34 @@ echo '
 <html lang="en">
 
 <head>
-<link rel="stylesheet" href="../css/design.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="icon" href="https://drive.google.com/thumbnail?id=1yoKK1TWp6gzZSyaRVgrtK60Js4-z2LUo" />
+    <link rel="stylesheet" href="../styles.css">
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cookie</title>
+    <title> Home </title>
 </head>
 
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-            </button>
 
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                   
-                  <a class="navbar-brand" href="#"><img src="https://drive.google.com/thumbnail?id=1W-lr3fEXaWfOyUdk132r-kkiQMeBsKWO" alt="logo" width="50px"></a>
-                  <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="../views/categories.php">Home<span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="../index.php">All Recipes</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="../views/about.php">About</a>
-                    </li>
-                  </ul>
-                  <form action="../views/search.php" method="POST"class="form-inline my-2 my-lg-0">
-                    <input name="busqueda" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                  </form>
-            </div>
-        </nav>
-    </header>
-</body>
+      <header>
+    <nav class="site-header sticky-top py-1">
+
+      <div class="container d-flex flex-column flex-md-row justify-content-between">
+        <a class="py-2" href="#" aria-label="Product">
+            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-egg-fried" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M13.665 6.113a1 1 0 0 1-.667-.977L13 5a4 4 0 0 0-6.483-3.136 1 1 0 0 1-.8.2 4 4 0 0 0-3.693 6.61 1 1 0 0 1 .2 1 4 4 0 0 0 6.67 4.087 1 1 0 0 1 1.262-.152 2.5 2.5 0 0 0 3.715-2.905 1 1 0 0 1 .341-1.113 2.001 2.001 0 0 0-.547-3.478zM14 5c0 .057 0 .113-.003.17a3.001 3.001 0 0 1 .822 5.216 3.5 3.5 0 0 1-5.201 4.065 5 5 0 0 1-8.336-5.109A5 5 0 0 1 5.896 1.08 5 5 0 0 1 14 5z"/>
+                <circle cx="8" cy="8" r="3"/>
+              </svg>
+        </a>
+
+        <a class="py-2 d-none d-md-inline-block" href="#">Home</a>
+        <a class="py-2 d-none d-md-inline-block" href="#">All recipes</a>
+        <a class="py-2 d-none d-md-inline-block" href="#">About</a>
+      </div>
+    </nav>
+  </header>
 ';
 
 ?>
