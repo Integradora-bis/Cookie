@@ -2,12 +2,14 @@
 
 echo '
   <footer>
-    <div class="container">
-      <span class="text-muted">Copyright &copy <script>document.write(new Date().getFullYear());</script> All Rights Reserved by 
-      <a href="#">Cookie</span>
+  <div class="container btn-lg">
+      <span class="site-footer">Copyright &copy <script>document.write(new Date().getFullYear());</script> All Rights Reserved by 
+      <a class="text-light"href="#">Cookie</span>
     </div>
   </footer>
-</html>
+  </body>
+
+  </html>
 '
 
 ?>
