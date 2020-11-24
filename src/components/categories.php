@@ -7,7 +7,7 @@
      <img class="chef" src="../img/chef.jpg"><br>
      <h1 class="display-4 font-weight-normal" style="color: #ac8b67">Welcome to Cookie!</h1> <br>
      <p class="lead font-weight-normal">What do you want to eat today?</p> <br>
-     <div style="align-items: center;"><form class="form-inline my-2 my-lg-0"></div>
+     <div style="align-items: center;"><form class="form-inline col-sm-6 p-lg-5 mx-auto my-5"></div>
          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
          <button class="btn btn-outline-dark my-5 my-sm-0" type="submit">Search</button>
      </form>
