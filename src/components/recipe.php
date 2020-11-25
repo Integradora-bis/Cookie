@@ -36,7 +36,7 @@ echo '
 
     <div class="col-md-4">
         <div class="embed-responsive position-relative  text-center">
-        <img src="https://drive.google.com/thumbnail?id=1klEW8Y4jKtNmbGTMlWqoW1_hyEmgHHeh" class="img-fluid rounded shadow" alt="Honey Lime Chicken" style="width: 75%; height: auto;">
+        <img src="https://drive.google.com/thumbnail?id=1klEW8Y4jKtNmbGTMlWqoW1_hyEmgHHeh" class="img-fluid rounded shadow" alt="Honey Lime Chicken" style="width: 70%; height: auto;">
         </div>
     </div>
    
