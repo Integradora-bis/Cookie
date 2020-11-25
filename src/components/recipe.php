@@ -29,19 +29,18 @@ echo '
         <div class="cuki position-relative overflow-hidden p-1 p-md-2 m-sm-2 text-center rounded shadow p-1 mb-1">
             <div>PROCEDURE</div>
             <div class="card-body text-dark">
-              <p class="card-text">ola</p>
+              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad libero placeat ut facilis distinctio, earum inventore architecto neque nemo. Voluptates odio tempore voluptatibus, repellendus incidunt fugiat ipsum ratione aliquid unde.Aspernatur unde corrupti, illum facere autem deserunt repellat dolore. Molestias cumque, porro consequuntur atque praesentium ad eum. Aliquid neque consectetur, dolorem itaque aliquam obcaecati tenetur reprehenderit optio, provident fugiat ipsam?</p>
             </div>
         </div>
     </div>
 
     <div class="col-md-4">
         <div class="embed-responsive position-relative  text-center">
-        <img src="https://drive.google.com/thumbnail?id=1klEW8Y4jKtNmbGTMlWqoW1_hyEmgHHeh" class="img-fluid rounded shadow" alt="Honey lime chicken style="width:200% height:300%" >
+        <img src="https://drive.google.com/thumbnail?id=1klEW8Y4jKtNmbGTMlWqoW1_hyEmgHHeh" class="img-fluid rounded shadow" alt="Honey Lime Chicken" style="width: 75%; height: auto;">
         </div>
     </div>
+   
 </div>
-
-
 ';
 }
 ?>
