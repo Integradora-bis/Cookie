@@ -7,8 +7,9 @@
      <img class="chef" src="https://drive.google.com/thumbnail?id=1ljq-pIN0MrXAuUiwbuZ7jvOhlQkksR44"><br>
      <h1 class="display-4 font-weight-normal" style="color: #ac8b67">Welcome to Cookie!</h1> <br>
      <p class="lead font-weight-normal">What do you want to eat today?</p> <br>
+     <h3"display-4 font-weight-normal" style="color: #ac8b67">Type your ingredient</h3>
      <div style="align-items: center;"><form class="form-inline col-md-3 p-lg-1 mx-auto my-1"></div>
-         <input class="form-control col-md-4 p-lg-1 mx-auto my-1 mr-md-6" type="search" placeholder="Search" aria-label="Search">
+         <input class="form-control col-md-4 p-lg-1 mx-auto my-3 mr-md-6" type="search" placeholder="Search" aria-label="Search">
          <button class="btn btn-outline-dark my-5 my-sm-0" type="submit">Search</button>
      </form>
  </div>
