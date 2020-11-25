@@ -28,7 +28,7 @@
           <!--Foods-->        
           <div class="col md-5">
               <div id ="foods">
-                  <a href="../views/categories/foods.php">
+                  <a href="../views/foods.php">
                       <img src="../img/food.jpg" class="card-img-top" alt="Foods" style="width:100% height:auto">              
                           <button type="button" class="btn btn-outline-dark col mb-4">Foods</button>                                 
                   </a>  
@@ -39,7 +39,7 @@
           <!--Desserts-->
           <div class="col md-5">
               <div id ="desserts">
-                  <a href="../views/categories/desserts.php">
+                  <a href="../views/desserts.php">
                       <img src="../img/dessert.jpg" class="card-img-top" alt="dessert" style="width:100% height:auto">
                       <div>
                           <button type="button" class="btn btn-outline-dark col mb-4">Desserts</button>                 
@@ -58,7 +58,7 @@
       <!--Family-->           
       <div class="col mb-4">
           <div id ="family">
-              <a href="../views/categories/famiily.php">
+              <a href="../views/family.php">
                   <img src="../img/family.jpg" class="card-img-top" alt="family" style="width:100% height:auto">
                   <div>
                   <button type="button" class="btn btn-outline-dark col mb-4">For the family</button>               
@@ -71,7 +71,7 @@
       <!--Individual-->
       <div class="col mb-4">
           <div id ="individual">
-              <a href="../views/categories/individual.php">
+              <a href="../views/individual.php">
                   <img src="../img/individual.jpg" class="card-img-top" alt="individual" style="width:100% height:auto">
                   <div >
                   <button type="button" class="btn btn-outline-dark col mb-4">For yourself</button>              
@@ -90,7 +90,7 @@
           <!--easy to make-->         
           <div class="col mb-4">
               <div id ="easy">
-                  <a href="../views/categories/short.php">
+                  <a href="../views/short.php">
                       <img src="../img/easy.jpg" class="card-img-top" alt="easy" style="width:100% height:auto">
                       <div>
                           <button type="button" class="btn btn-outline-dark col mb-4">Easy to make</button>                  
@@ -103,7 +103,7 @@
           <!--hard to make-->
           <div class="col mb-4">
               <div id ="hard">
-                  <a href="../views/categories/long.php">
+                  <a href="../views/long.php">
                       <img src="../img/hard.jpg" class="card-img-top" alt="hard" style="width:100% height:auto">
                       <div>
                       <button type="button" class="btn btn-outline-dark col mb-4">Hard to make</button>                 
