@@ -4,7 +4,7 @@
 
  <div class="cuki position-relative overflow-hidden p-3 p-md-5 m-sm-5 text-center rounded shadow p-3 mb-5">
  <div class=" col-sm-12 p-lg-5 mx-auto my-5">
-     <img class="chef" src="../img/chef.jpg"><br>
+     <img class="chef" src="https://drive.google.com/thumbnail?id=1ljq-pIN0MrXAuUiwbuZ7jvOhlQkksR44"><br>
      <h1 class="display-4 font-weight-normal" style="color: #ac8b67">Welcome to Cookie!</h1> <br>
      <p class="lead font-weight-normal">What do you want to eat today?</p> <br>
      <div style="align-items: center;"><form class="form-inline col-sm-6 p-lg-5 mx-auto my-5"></div>
