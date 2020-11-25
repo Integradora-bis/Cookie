@@ -27,9 +27,9 @@ echo '
               </svg>
         </a>
 
-        <a class="py-2 d-none d-md-inline-block" href="#">Home</a>
-        <a class="py-2 d-none d-md-inline-block" href="#">All recipes</a>
-        <a class="py-2 d-none d-md-inline-block" href="#">About</a>
+        <a class="py-2 d-none d-md-inline-block" href="../views/categories.php">Home</a>
+        <a class="py-2 d-none d-md-inline-block" href="../views/cards.php">All recipes</a>
+        <a class="py-2 d-none d-md-inline-block" href="../views/about.php">About</a>
       </div>
     </nav>
   </header>
