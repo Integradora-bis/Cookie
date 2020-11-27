@@ -29,7 +29,7 @@
         <div class="row mb-3">
 
             <!--Foods-->
-                <div class="col-md-4 id ="foods">                    
+                <div class="col-md-4" id ="foods">                    
                     <a href="../views/foods.php">
                      <img src="../img/food.jpg" class="card-img-top" alt="Foods" style="width:100% height:auto"> 
                      <br><br>              
