@@ -21,7 +21,7 @@
   
  <div class = "position-relative overflow-hidden p-3 p-md-5 m-sm-5 text-center rounded shadow p-3 mb-5">
 
- <br> <h5 id="rn" class="display-10" style="color:#ac8b67">Categories</h5> <br><br>
+ <br> <h5 id="rn" class="display-10" style="color:#ac8b67">Choose your category</h5> <br><br>
   
 <!--Categories 1-->
 
