@@ -38,7 +38,7 @@
                 </div>
 
             <!--Family--> 
-                <div class="col-md-4 id="family">
+                <div class="col-md-4" id="family">
                     <a href="../views/family.php">
                     <img src="../img/family.jpg" class="card-img-top" alt="family" style="width:100% height:auto">
                     <br> <br> 
@@ -47,7 +47,7 @@
                 </div>  
 
             <!--easy to make-->
-                <div class="col-md-4 id ="easy"">
+                <div class="col-md-4" id ="easy"">
                     <a href="../views/short.php">
                     <img src="../img/easy.jpg" class="card-img-top" alt="easy" style="width:100% height:auto">
                     <br> <br> 
@@ -64,7 +64,7 @@
         <div class="row mb-3">
 
             <!--Desserts-->
-                <div class="col-md-4 id ="desserts">
+                <div class="col-md-4" id ="desserts">
                     <a href="../views/desserts.php">
                     <img src="../img/dessert.jpg" class="card-img-top" alt="dessert" style="width:100% height:auto">
                     <br> <br> 
@@ -73,7 +73,7 @@
                  </div>
 
             <!--Individual-->
-                <div class=col-md-4 id ="individual">
+                <div class="col-md-4" id ="individual">
                     <a href="../views/individual.php">
                     <img src="../img/individual.jpg" class="card-img-top" alt="individual" style="width:100% height:auto">
                     <br> <br>                   
@@ -82,7 +82,7 @@
                 </div>  
 
             <!--hard to make-->
-                <div class=col-md-4 id ="hard">
+                <div class="col-md-4" id ="hard">
                     <a href="../views/long.php">
                     <img src="../img/hard.jpg" class="card-img-top" alt="hard" style="width:100% height:auto">   
                     <br> <br>                    
