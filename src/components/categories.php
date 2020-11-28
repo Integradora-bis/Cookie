@@ -2,7 +2,7 @@
  echo'
  <!--Main card-->
 
-<div class="p-md-1 m-sm-5 text-center rounded shadow background"> 
+<div class="p-md-1 m-sm-5 text-center rounded shadow background id="white-bg""> 
 
     <div class="col-sm-12 p-lg-4 mx-auto my-60">
    
@@ -20,7 +20,7 @@
     </div>
 </div>
    
-<div class = "position-relative overflow-hidden p-2 p-md-2 m-sm-5 text-center rounded shadow p-3 mb-5">
+<div class = "position-relative overflow-hidden p-2 p-md-2 m-sm-5 text-center rounded shadow p-3 mb-5" id="white-bg">
    
     <br> <h4 id="rn" class="display-10" style="color:#ac8b67">Choose a category</h4> <br>
      
