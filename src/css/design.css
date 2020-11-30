@@ -26,7 +26,6 @@ footer{
     margin-right: 15%;
 }
 
-
 .navbar{
 	background-color: #bd8236;
 }
@@ -50,6 +49,10 @@ input{
 
 #white-bg{
   background-color: #fff;
+}
+
+body{
+    background-color: #f0e6d0;
 }
 
 /*copy paste */
